@@ -48,7 +48,7 @@ public class Compare {
 }
 ```
 ## Output:
-![output](op.png)
+![op](https://github.com/Bharath745/Java-Ex-02/assets/94508354/83872b8e-eec6-48b0-8b05-5000b5b671d8)
 
 ## Result:-
 A java program to compare two numbers has been executed successfully.
